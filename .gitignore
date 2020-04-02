@@ -19,3 +19,7 @@ Thumbs.db
 
 # Changelog test
 changelog.txt
+.Rproj.user
+
+# R
+*.Rproj
